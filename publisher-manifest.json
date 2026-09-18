@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "700eaa14176e2a04ed950792",
+  "owner": "ysydkjm",
+  "repo": "page-865c74a8a7c99f83968a0ce9",
+  "title": "ClashX官方下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "865c74a8a7c99f83968a0ce9",
+      "a": "奶油(CreamData)",
+      "b": "ClashX官方下载",
+      "entity": "奶油(CreamData)",
+      "brand": "ClashX官方下载",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e2a4319859a935a94c8004939ad133328841038d498dc476aec2062e9456186e",
+      "content": {
+        "primary_entity": "奶油(CreamData)",
+        "keyword1": "奶油(CreamData)",
+        "keyword2": "ClashX官方下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备类型选择适配客户端，兼容性以实际测试为准。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选择适合的套餐，参考客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "按需选择套餐",
+          "AI_DESCRIPTION": "，奶油(CreamData)提供基础版、旗舰版和团队版三档订阅选择，覆盖每月100GB至1000GB流量，支持3至20台设备同时在线。旗舰版包含IPLC专线游戏加速优化，团队版支持企业定制路由。用户可通过ClashX等客户端导入订阅，按设备数量和流量需求灵活选用。",
+          "AI_FEATURES_INTRO": "从套餐、设备和周期三个角度快速了解奶油(CreamData)。",
+          "AI_FEATURES_TITLE": "核心特点",
+          "AI_FEATURE_TEXT_1": "基础版月付15元享100GB流量，旗舰版月付35元享300GB流量，团队版月付85元享1000GB流量。",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版支持5台，团队版支持20台同时在线，按需匹配日常或办公场景。",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供按年付选项，年付价格分别为150元、350元和850元，适合长期稳定使用。",
+          "AI_FEATURE_TITLE_1": "多档套餐",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "按三步完成从选择到配置的流程。",
+          "AI_GUIDE_TITLE": "选择与配置步骤",
+          "AI_HERO_INTRO": "奶油(CreamData)为不同设备数量的用户提供灵活订阅方案，从基础版到团队版覆盖日常浏览、流媒体与游戏加速需求。",
+          "AI_HERO_SUBTITLE": "灵活订阅，适配多设备",
+          "AI_HIGHLIGHT_1": "三档套餐按月或按年订阅",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线优化",
+          "AI_HIGHLIGHT_3": "团队版支持20台设备在线",
+          "AI_PLANS_INTRO": "对比流量、设备数与专线权益，选择适合的套餐。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求和在线设备数量，从基础版、旗舰版或团队版中挑选合适方案。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备数量、流量额度及流媒体或游戏加速权益。",
+          "AI_STEP_TEXT_3": "参照所选客户端的订阅导入文档，完成配置并连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "灵活订阅，按需选择",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐付费。",
+          "AI_FAQ_QUESTION_1": "奶油(CreamData)三档套餐的流量分别是多少？",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB，旗舰版每月300GB，团队版每月1000GB。轻度浏览选基础版，追剧与游戏较多的选旗舰版，团队或多设备重度使用选团队版。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时几台设备在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备同时在线，旗舰版支持5台，团队版支持20台。超出在线数时先退出不用的设备，再让新设备连接。",
+          "AI_FAQ_QUESTION_3": "年付比月付省多少？",
+          "AI_FAQ_ANSWER_3": "基础版年付150元，旗舰版350元，团队版850元，相当于用十个月月付价格获得十二个月使用期。长期使用建议直接选年付。",
+          "AI_FAQ_QUESTION_4": "旗舰版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_4": "旗舰版带全节点原生流媒体解锁和IPLC专线游戏加速，适合需要观看流媒体和玩在线游戏、同时对延迟敏感的用户，还附带7x24优先工单支持。",
+          "AI_FAQ_QUESTION_5": "如何把订阅导入客户端？",
+          "AI_FAQ_ANSWER_5": "先安装所选客户端，在客户端的订阅或配置页面粘贴订阅链接并保存，之后更新一次节点列表即可使用。不同客户端操作略有差异，按其文档操作即可。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "71120bdf6bb2aa8d7b1af944d160754ed476ed9a26419e2777e19aded44e7236",
+    "sitemap.xml": "8ebc8959ca3cedba277e9b5198f3c7aa168268ad1bb7c09d3b60576a3907e6b4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "a3e9a35ccbb8d9170fe91f1e4ca33ed5387f22405826222d0cf59a345deb1799"
+}
